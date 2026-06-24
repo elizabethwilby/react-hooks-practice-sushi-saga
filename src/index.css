@@ -32,7 +32,7 @@ body {
 }
 
 .empty-plate {
-  background-image: url("http://www.clker.com/cliparts/9/9/f/0/1194984076762834840small_plate.svg.hi.png");
+  background-image: url("/public/plate.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
